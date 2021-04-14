@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "Time series analysis",
-            "content": "&gt; This notebook explores the time series dataset using pandas library in python - toc: true - branch: master - comments: true - author: aakash basnet - categories: [jupyter] . url = &quot;https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html&quot; print(&quot;Hello&quot;) .",
+            "content": "&gt; This notebook explores the time series dataset using pandas library in python - toc: true - branch: master - comments: true - author: aakash basnet - categories: [jupyter] . About . We will be scraping a website with timeseries data. Once, we clean and transform the scraped timeseries, we will analyze it using python libraries. . url = &quot;https://scikit-learn.org/stable/auto_examples/datasets/plot_iris_dataset.html&quot; print(&quot;Hello&quot;) .",
             "url": "https://hssaka7.github.io/ml_journey/2020/04/08/timeseries.html",
             "relUrl": "/2020/04/08/timeseries.html",
             "date": " • Apr 8, 2020"
